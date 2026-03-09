@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# 模型文件（太大，不提交）
+models/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# 音频文件
+radios/
+*.wav
+*.mp3
+*.ogg
+
+#  IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+*.tmp
