@@ -1,5 +1,7 @@
 # 龙虾电台 (Lobster Radio) - OpenClaw Skill
 
+English version: [README_EN.md](README_EN.md)
+
 个性化资讯电台生成服务，使用本地TTS模型，完全免费（上方文件有音频示例）
 
 基于通义千问开源的Qwen3-TTS-12Hz 0.6b本地模型语音大模型，实现 **「资讯智能抓取→内容精编→个性化语音合成」** 全链路自动化的音频资讯系统。
