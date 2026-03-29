@@ -1,6 +1,5 @@
 # Lobster Radio - Personalized AI News Radio Skill
 
-![🎙️](https://img.shields.io/badge/-🎙️-Audio%20demos%20available%20above-blue)
 
 A personalized AI news radio generation service powered by a local TTS model — completely free.
 
